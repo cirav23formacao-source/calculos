@@ -1,2 +1,2 @@
 # calculos
-Aplicação para efetuar diferentes tipos de cáculos
+Aplicação para efetuar diferentes tipos de cálculos
